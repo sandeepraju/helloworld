@@ -1,9 +1,10 @@
 #!/usr/bin/python
-#author: sandeep080@gmail.com
-#helloworld program
+
+# Author : sandeep080@gmail.com
+# Title  : 'hello, world!' program
+
 def main():
-	print "hello world"
-	print "this was added just for the sake of creating a new commit"
+	print "hello, world!"
 
 if __name__ == "__main__":
 	main()
